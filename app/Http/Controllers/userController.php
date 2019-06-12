@@ -8,7 +8,7 @@ class userController extends Controller
 {
     public function index()
     {
-        echo "😍❤❤😍";
+        echo "你好";
         return view('welcome');
     }
 }
